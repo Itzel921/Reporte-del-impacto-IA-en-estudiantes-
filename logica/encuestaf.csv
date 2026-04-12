@@ -61,7 +61,7 @@ Marca temporal,Género,¿Cuántos años tienes?,¿Qué semestre estás cursando?
 2026/04/06 10:11:29 p.m. GMT+0,Masculino,24,2do Semestre,4,99,4,1,1,Sí,1,ChatGPT,Regular,225206255
 2026/04/06 10:11:33 p.m. GMT+0,Femenino,19,2do Semestre,2,81,7,3,0,No,0,Ninguna,Muy bajo,225215200
 2026/04/06 10:11:36 p.m. GMT+0,Masculino,20,2do Semestre,1,83,7,1,1,No,2,ChatGPT,Regular,225200332
-2026/04/06 10:12:40 p.m. GMT+0,Femenino,31,2do Semestre,33,99.6,7,4,3,No,5,Deepseek y Claude,Regular,213204857
+2026/04/06 10:12:40 p.m. GMT+0,Femenino,31,2do Semestre,33,99.6,7,4,3,No,5,Deepseek ,Regular,213204857
 2026/04/06 10:13:00 p.m. GMT+0,Masculino,25,2do Semestre,2,70,6,1,0,No,0,Ninguna,Muy bajo,220216875
 2026/04/07 4:00:15 p.m. GMT+0,Masculino,18,2do Semestre,5,94,7,2,2,Sí,3,Gemini,Regular,225203072
 2026/04/07 4:16:45 p.m. GMT+0,Masculino,24,6to Semestre,24,89.9,7,2,2,Sí,8,ChatGPT,Regular,223108792
@@ -148,7 +148,7 @@ Marca temporal,Género,¿Cuántos años tienes?,¿Qué semestre estás cursando?
 2026/04/08 6:38:26 p.m. GMT+0,Femenino,22,8vo Semestre,10,96,7,3,2,Sí,1,ChatGPT,Regular,
 2026/04/08 6:39:17 p.m. GMT+0,Masculino,21,8vo Semestre,8,100,7,3,3,Sí,4,ChatGPT,Alto,
 2026/04/08 6:40:01 p.m. GMT+0,Femenino,23,5to Semestre,6,93,7,2,1,Sí,2,ChatGPT,Regular,
-2026/04/08 6:40:38 p.m. GMT+0,Femenino,21,8vo Semestre,5,99,7,5,2,Sí,5,"Claude, ChatGpt",Regular,
+2026/04/08 6:40:38 p.m. GMT+0,Femenino,21,8vo Semestre,5,99,7,5,2,Sí,5,Claude,Regular,
 2026/04/08 6:41:36 p.m. GMT+0,Masculino,23,9no Semestre,9,84,5,3,2,Sí,6,Gemini,Alto,
 2026/04/08 6:41:47 p.m. GMT+0,Masculino,21,8vo Semestre,4,99,7,4,4,Sí,5,ChatGPT,Regular,
 2026/04/08 6:43:22 p.m. GMT+0,Masculino,70,Último semestre ,6,80,1,2,2,Sí,2,ChatGPT,Alto,
@@ -177,7 +177,7 @@ Marca temporal,Género,¿Cuántos años tienes?,¿Qué semestre estás cursando?
 2026/04/08 9:12:49 p.m. GMT+0,Masculino,23,1er Semestre,5,90,3,2,2,Sí,2,Copilot,Regular,
 2026/04/08 9:57:39 p.m. GMT+0,Masculino,30,9no Semestre,10,86.25,3,3,1,Sí,4,Claude,Regular,
 2026/04/08 10:37:58 p.m. GMT+0,Masculino,20,6to Semestre,12,94,6,4,2,Sí,15,Gemini,Regular,
-2026/04/08 11:10:08 p.m. GMT+0,soy un helicoptero ,24,9no Semestre,2,85,1,5,2,No,1,brave y deepseek,Muy bajo,
+2026/04/08 11:10:08 p.m. GMT+0,soy un helicoptero ,24,9no Semestre,2,85,1,5,2,No,1,brave,Muy bajo,
 2026/04/08 11:34:12 p.m. GMT+0,Masculino,22,9no Semestre,28,88,6,2,1,No,3,Gemini,Regular,
 2026/04/09 12:07:24 a.m. GMT+0,Masculino,20,4to Semestre,35,9.2,7,2,3,Sí,3,Meta IA,Regular,
 2026/04/09 1:01:21 a.m. GMT+0,Masculino,23,9no Semestre,3,97,3,2,2,Sí,3,ClaudeAI,Bajo,
@@ -189,7 +189,7 @@ Marca temporal,Género,¿Cuántos años tienes?,¿Qué semestre estás cursando?
 2026/04/09 3:54:11 p.m. GMT+0,Masculino,21,6to Semestre,5,93,6,1,2,Sí,3,Gemini,Alto,
 2026/04/09 3:55:44 p.m. GMT+0,Masculino,21,6to Semestre,7,97,7,3,4,Sí,10,claude,Muy alto,
 2026/04/09 5:23:02 p.m. GMT+0,Masculino,21,8vo Semestre,168,95,6,4,1,Sí,23,Gemini,Alto,
-2026/04/10 3:42:50 p.m. GMT+0,Masculino,22,2do Semestre,8,92,4,3,2,Sí,4,Deepseek y Claude,Regular,
+2026/04/10 3:42:50 p.m. GMT+0,Masculino,22,2do Semestre,8,92,4,3,2,Sí,4,Deepseek ,Regular,
 2026/04/10 3:48:48 p.m. GMT+0,Masculino,20,2do Semestre,4,89,7,1,1,Sí,4,Gemini,Alto,
 2026/04/10 4:38:21 p.m. GMT+0,Masculino,21,5to Semestre,18,100,6,3,4,No,8,Gemini,Regular,
 2026/04/10 5:14:38 p.m. GMT+0,Femenino,21,6to Semestre,0,92,6,1,4,Sí,5,ChatGPT,Alto,
