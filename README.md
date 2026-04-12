@@ -1,4 +1,4 @@
-# Documentación del Análisis de Impacto de la IA en Estudiantes
+#Análisis de Impacto de la IA en Estudiantes de la carrera de ISI
 
 ## 🎯 Propósito del Programa
 Este programa, implementado en un Jupyter Notebook (`logica/reporte.ipynb`), tiene como objetivo procesar, limpiar, analizar y visualizar los datos obtenidos de una encuesta sobre el impacto y uso de la Inteligencia Artificial (IA) en estudiantes. El script calcula estadísticas descriptivas, genera visualizaciones clave para cada variable y evalúa las correlaciones matemáticas entre ellas.
